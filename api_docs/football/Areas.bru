@@ -1,0 +1,15 @@
+meta {
+  name: Areas
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{BASE_URL}}/areas
+  body: none
+  auth: none
+}
+
+headers {
+  X-Auth-Token: {{AUTH_TOKEN}}
+}

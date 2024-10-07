@@ -1,0 +1,3140 @@
+{
+  "filters": {
+    "season": "2023",
+    "competitions": "DED,EL,CL",
+    "permission": "TIER_ONE",
+    "limit": 100
+  },
+  "resultSet": {
+    "count": 40,
+    "competitions": "DED,CL",
+    "first": "2023-08-13",
+    "last": "2024-05-19",
+    "played": 40,
+    "wins": 19,
+    "draws": 6,
+    "losses": 6
+  },
+  "matches": [
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441488,
+      "utcDate": "2023-08-13T12:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-09-19T20:20:03Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 1920,
+        "name": "Fortuna Sittard",
+        "shortName": "Sittard",
+        "tla": "SIT",
+        "crest": "https://crests.football-data.org/1920.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 17141,
+          "name": "Rob Dieperink",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441497,
+      "utcDate": "2023-08-20T12:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-09-19T20:20:03Z",
+      "homeTeam": {
+        "id": 6806,
+        "name": "Sparta Rotterdam",
+        "shortName": "Sparta",
+        "tla": "SPA",
+        "crest": "https://crests.football-data.org/6806.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43899,
+          "name": "Danny Makkelie",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441504,
+      "utcDate": "2023-08-27T12:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-09-19T20:20:03Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 1911,
+        "name": "Almere City FC",
+        "shortName": "Almere City",
+        "tla": "ALM",
+        "crest": "https://crests.football-data.org/1911.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 6,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 3,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56905,
+          "name": "Bas Nijhuis",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441514,
+      "utcDate": "2023-09-03T10:15:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-09-19T20:20:03Z",
+      "homeTeam": {
+        "id": 676,
+        "name": "FC Utrecht",
+        "shortName": "Utrecht",
+        "tla": "UTR",
+        "crest": "https://crests.football-data.org/676.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 5
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 2
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 15152,
+          "name": "Pol van Boekel",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441518,
+      "utcDate": "2023-09-16T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-09-19T19:14:44Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 673,
+        "name": "SC Heerenveen",
+        "shortName": "Heerenveen",
+        "tla": "HEE",
+        "crest": "https://crests.football-data.org/673.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 6,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 3,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56912,
+          "name": "Jeroen Manschot",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2077,
+        "name": "Europe",
+        "code": "EUR",
+        "flag": "https://crests.football-data.org/EUR.svg"
+      },
+      "competition": {
+        "id": 2001,
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/CL.png"
+      },
+      "season": {
+        "id": 1630,
+        "startDate": "2023-09-19",
+        "endDate": "2024-06-01",
+        "currentMatchday": 6,
+        "winner": {
+          "id": 86,
+          "name": "Real Madrid CF",
+          "shortName": "Real Madrid",
+          "tla": "RMA",
+          "crest": "https://crests.football-data.org/86.png",
+          "address": "Avenida Concha Espina, 1 Madrid 28036",
+          "website": "http://www.realmadrid.com",
+          "founded": 1902,
+          "clubColors": "White / Purple",
+          "venue": "Estadio Santiago Bernabéu",
+          "lastUpdated": "2022-02-19T08:59:31Z"
+        }
+      },
+      "id": 451616,
+      "utcDate": "2023-09-19T19:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "lastUpdated": "2024-03-15T14:47:18Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 732,
+        "name": "Celtic FC",
+        "shortName": "Celtic",
+        "tla": "CEL",
+        "crest": "https://crests.football-data.org/732.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 15680,
+          "name": "Irfan Peljto",
+          "type": "REFEREE",
+          "nationality": "Bosnia and Herzegovina"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441533,
+      "utcDate": "2023-09-27T12:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-06-02T20:20:54Z",
+      "homeTeam": {
+        "id": 678,
+        "name": "AFC Ajax",
+        "shortName": "Ajax",
+        "tla": "AJA",
+        "crest": "https://crests.football-data.org/678.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 4
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 3
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43858,
+          "name": "Serdar Gözübüyük",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441536,
+      "utcDate": "2023-09-30T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-10-01T00:21:18Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 718,
+        "name": "Go Ahead Eagles",
+        "shortName": "Go Ahead",
+        "tla": "GOA",
+        "crest": "https://crests.football-data.org/718.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 3,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43716,
+          "name": "Jochem Kamphuis",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2077,
+        "name": "Europe",
+        "code": "EUR",
+        "flag": "https://crests.football-data.org/EUR.svg"
+      },
+      "competition": {
+        "id": 2001,
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/CL.png"
+      },
+      "season": {
+        "id": 1630,
+        "startDate": "2023-09-19",
+        "endDate": "2024-06-01",
+        "currentMatchday": 6,
+        "winner": {
+          "id": 86,
+          "name": "Real Madrid CF",
+          "shortName": "Real Madrid",
+          "tla": "RMA",
+          "crest": "https://crests.football-data.org/86.png",
+          "address": "Avenida Concha Espina, 1 Madrid 28036",
+          "website": "http://www.realmadrid.com",
+          "founded": 1902,
+          "clubColors": "White / Purple",
+          "venue": "Estadio Santiago Bernabéu",
+          "lastUpdated": "2022-02-19T08:59:31Z"
+        }
+      },
+      "id": 451611,
+      "utcDate": "2023-10-04T16:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "lastUpdated": "2024-03-15T14:47:18Z",
+      "homeTeam": {
+        "id": 78,
+        "name": "Club Atlético de Madrid",
+        "shortName": "Atleti",
+        "tla": "ATL",
+        "crest": "https://crests.football-data.org/78.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 3,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 2,
+          "away": 2
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43918,
+          "name": "François Letexier",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441550,
+      "utcDate": "2023-10-08T10:15:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-10-09T15:20:25Z",
+      "homeTeam": {
+        "id": 684,
+        "name": "PEC Zwolle",
+        "shortName": "Zwolle",
+        "tla": "ZWO",
+        "crest": "https://crests.football-data.org/684.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56923,
+          "name": "Sander Van der Eijk",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441554,
+      "utcDate": "2023-10-21T19:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-10-22T00:21:15Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 679,
+        "name": "SBV Vitesse",
+        "shortName": "Vitesse",
+        "tla": "VIT",
+        "crest": "https://crests.football-data.org/679.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 4,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56905,
+          "name": "Bas Nijhuis",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2077,
+        "name": "Europe",
+        "code": "EUR",
+        "flag": "https://crests.football-data.org/EUR.svg"
+      },
+      "competition": {
+        "id": 2001,
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/CL.png"
+      },
+      "season": {
+        "id": 1630,
+        "startDate": "2023-09-19",
+        "endDate": "2024-06-01",
+        "currentMatchday": 6,
+        "winner": {
+          "id": 86,
+          "name": "Real Madrid CF",
+          "shortName": "Real Madrid",
+          "tla": "RMA",
+          "crest": "https://crests.football-data.org/86.png",
+          "address": "Avenida Concha Espina, 1 Madrid 28036",
+          "website": "http://www.realmadrid.com",
+          "founded": 1902,
+          "clubColors": "White / Purple",
+          "venue": "Estadio Santiago Bernabéu",
+          "lastUpdated": "2022-02-19T08:59:31Z"
+        }
+      },
+      "id": 451619,
+      "utcDate": "2023-10-25T16:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "lastUpdated": "2024-03-15T14:47:18Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 110,
+        "name": "SS Lazio",
+        "shortName": "Lazio",
+        "tla": "LAZ",
+        "crest": "https://crests.football-data.org/110.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 3,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43943,
+          "name": "Tobias Stieler",
+          "type": "REFEREE",
+          "nationality": "Germany"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441568,
+      "utcDate": "2023-10-29T11:15:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-10-30T00:21:07Z",
+      "homeTeam": {
+        "id": 666,
+        "name": "FC Twente '65",
+        "shortName": "Twente",
+        "tla": "TWE",
+        "crest": "https://crests.football-data.org/666.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43861,
+          "name": "Dennis Higler",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441573,
+      "utcDate": "2023-11-04T17:45:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-11-05T00:20:42Z",
+      "homeTeam": {
+        "id": 683,
+        "name": "RKC Waalwijk",
+        "shortName": "RKC",
+        "tla": "RKC",
+        "crest": "https://crests.football-data.org/683.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 15152,
+          "name": "Pol van Boekel",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2077,
+        "name": "Europe",
+        "code": "EUR",
+        "flag": "https://crests.football-data.org/EUR.svg"
+      },
+      "competition": {
+        "id": 2001,
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/CL.png"
+      },
+      "season": {
+        "id": 1630,
+        "startDate": "2023-09-19",
+        "endDate": "2024-06-01",
+        "currentMatchday": 6,
+        "winner": {
+          "id": 86,
+          "name": "Real Madrid CF",
+          "shortName": "Real Madrid",
+          "tla": "RMA",
+          "crest": "https://crests.football-data.org/86.png",
+          "address": "Avenida Concha Espina, 1 Madrid 28036",
+          "website": "http://www.realmadrid.com",
+          "founded": 1902,
+          "clubColors": "White / Purple",
+          "venue": "Estadio Santiago Bernabéu",
+          "lastUpdated": "2022-02-19T08:59:31Z"
+        }
+      },
+      "id": 451620,
+      "utcDate": "2023-11-07T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "lastUpdated": "2024-03-15T14:47:18Z",
+      "homeTeam": {
+        "id": 110,
+        "name": "SS Lazio",
+        "shortName": "Lazio",
+        "tla": "LAZ",
+        "crest": "https://crests.football-data.org/110.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43888,
+          "name": "Szymon Marciniak",
+          "type": "REFEREE",
+          "nationality": "Poland"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441588,
+      "utcDate": "2023-11-12T15:45:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-11-13T00:21:18Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 682,
+        "name": "AZ",
+        "shortName": "AZ",
+        "tla": "AZ",
+        "crest": "https://crests.football-data.org/682.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43899,
+          "name": "Danny Makkelie",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441590,
+      "utcDate": "2023-11-25T15:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-11-26T00:21:22Z",
+      "homeTeam": {
+        "id": 670,
+        "name": "SBV Excelsior",
+        "shortName": "Excelsior",
+        "tla": "EXC",
+        "crest": "https://crests.football-data.org/670.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 4
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43858,
+          "name": "Serdar Gözübüyük",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2077,
+        "name": "Europe",
+        "code": "EUR",
+        "flag": "https://crests.football-data.org/EUR.svg"
+      },
+      "competition": {
+        "id": 2001,
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/CL.png"
+      },
+      "season": {
+        "id": 1630,
+        "startDate": "2023-09-19",
+        "endDate": "2024-06-01",
+        "currentMatchday": 6,
+        "winner": {
+          "id": 86,
+          "name": "Real Madrid CF",
+          "shortName": "Real Madrid",
+          "tla": "RMA",
+          "crest": "https://crests.football-data.org/86.png",
+          "address": "Avenida Concha Espina, 1 Madrid 28036",
+          "website": "http://www.realmadrid.com",
+          "founded": 1902,
+          "clubColors": "White / Purple",
+          "venue": "Estadio Santiago Bernabéu",
+          "lastUpdated": "2022-02-19T08:59:31Z"
+        }
+      },
+      "id": 451612,
+      "utcDate": "2023-11-28T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "lastUpdated": "2024-03-15T14:47:18Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 78,
+        "name": "Club Atlético de Madrid",
+        "shortName": "Atleti",
+        "tla": "ATL",
+        "crest": "https://crests.football-data.org/78.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 3
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 11580,
+          "name": "Anthony Taylor",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441604,
+      "utcDate": "2023-12-03T11:15:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-12-03T20:21:01Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 674,
+        "name": "PSV",
+        "shortName": "PSV",
+        "tla": "PSV",
+        "crest": "https://crests.football-data.org/674.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43899,
+          "name": "Danny Makkelie",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441608,
+      "utcDate": "2023-12-07T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-12-08T00:20:40Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 1919,
+        "name": "FC Volendam",
+        "shortName": "Volendam",
+        "tla": "VOL",
+        "crest": "https://crests.football-data.org/1919.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 3,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56910,
+          "name": "Martin van den Kerkhof",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2077,
+        "name": "Europe",
+        "code": "EUR",
+        "flag": "https://crests.football-data.org/EUR.svg"
+      },
+      "competition": {
+        "id": 2001,
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/CL.png"
+      },
+      "season": {
+        "id": 1630,
+        "startDate": "2023-09-19",
+        "endDate": "2024-06-01",
+        "currentMatchday": 6,
+        "winner": {
+          "id": 86,
+          "name": "Real Madrid CF",
+          "shortName": "Real Madrid",
+          "tla": "RMA",
+          "crest": "https://crests.football-data.org/86.png",
+          "address": "Avenida Concha Espina, 1 Madrid 28036",
+          "website": "http://www.realmadrid.com",
+          "founded": 1902,
+          "clubColors": "White / Purple",
+          "venue": "Estadio Santiago Bernabéu",
+          "lastUpdated": "2022-02-19T08:59:31Z"
+        }
+      },
+      "id": 451615,
+      "utcDate": "2023-12-13T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "lastUpdated": "2024-03-15T14:47:18Z",
+      "homeTeam": {
+        "id": 732,
+        "name": "Celtic FC",
+        "shortName": "Celtic",
+        "tla": "CEL",
+        "crest": "https://crests.football-data.org/732.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43926,
+          "name": "Benoît Bastien",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441623,
+      "utcDate": "2023-12-17T13:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2023-12-18T00:21:17Z",
+      "homeTeam": {
+        "id": 671,
+        "name": "Heracles Almelo",
+        "shortName": "Heracles",
+        "tla": "HER",
+        "crest": "https://crests.football-data.org/671.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 4
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 2
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56912,
+          "name": "Jeroen Manschot",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441634,
+      "utcDate": "2024-01-14T15:45:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-01-14T20:21:03Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 1915,
+        "name": "NEC",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://crests.football-data.org/1915.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 2,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56923,
+          "name": "Sander Van der Eijk",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441641,
+      "utcDate": "2024-01-21T13:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-01-21T20:21:02Z",
+      "homeTeam": {
+        "id": 679,
+        "name": "SBV Vitesse",
+        "shortName": "Vitesse",
+        "tla": "VIT",
+        "crest": "https://crests.football-data.org/679.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43858,
+          "name": "Serdar Gözübüyük",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441651,
+      "utcDate": "2024-01-28T13:30:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-01-28T20:20:26Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 666,
+        "name": "FC Twente '65",
+        "shortName": "Twente",
+        "tla": "TWE",
+        "crest": "https://crests.football-data.org/666.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 9561,
+          "name": "Allard Lindhout",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441659,
+      "utcDate": "2024-02-04T13:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-02-04T20:21:08Z",
+      "homeTeam": {
+        "id": 682,
+        "name": "AZ",
+        "shortName": "AZ",
+        "tla": "AZ",
+        "crest": "https://crests.football-data.org/682.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43899,
+          "name": "Danny Makkelie",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441666,
+      "utcDate": "2024-02-11T19:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-02-12T00:21:22Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 6806,
+        "name": "Sparta Rotterdam",
+        "shortName": "Sparta",
+        "tla": "SPA",
+        "crest": "https://crests.football-data.org/6806.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 15152,
+          "name": "Pol van Boekel",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441672,
+      "utcDate": "2024-02-18T15:45:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-02-18T20:21:04Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 683,
+        "name": "RKC Waalwijk",
+        "shortName": "RKC",
+        "tla": "RKC",
+        "crest": "https://crests.football-data.org/683.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56910,
+          "name": "Martin van den Kerkhof",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441685,
+      "utcDate": "2024-02-25T13:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-02-26T00:21:18Z",
+      "homeTeam": {
+        "id": 1911,
+        "name": "Almere City FC",
+        "shortName": "Almere City",
+        "tla": "ALM",
+        "crest": "https://crests.football-data.org/1911.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56904,
+          "name": "Edwin van de Graaf",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441690,
+      "utcDate": "2024-03-03T13:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-03-04T00:21:20Z",
+      "homeTeam": {
+        "id": 674,
+        "name": "PSV",
+        "shortName": "PSV",
+        "tla": "PSV",
+        "crest": "https://crests.football-data.org/674.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43858,
+          "name": "Serdar Gözübüyük",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441699,
+      "utcDate": "2024-03-10T19:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-03-11T00:21:26Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 671,
+        "name": "Heracles Almelo",
+        "shortName": "Heracles",
+        "tla": "HER",
+        "crest": "https://crests.football-data.org/671.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 3,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56905,
+          "name": "Bas Nijhuis",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441712,
+      "utcDate": "2024-03-17T13:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-03-18T00:20:36Z",
+      "homeTeam": {
+        "id": 673,
+        "name": "SC Heerenveen",
+        "shortName": "Heerenveen",
+        "tla": "HEE",
+        "crest": "https://crests.football-data.org/673.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 3
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43716,
+          "name": "Jochem Kamphuis",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441716,
+      "utcDate": "2024-03-31T12:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-03-31T20:20:24Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 676,
+        "name": "FC Utrecht",
+        "shortName": "Utrecht",
+        "tla": "UTR",
+        "crest": "https://crests.football-data.org/676.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 4,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 2
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 9561,
+          "name": "Allard Lindhout",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441725,
+      "utcDate": "2024-04-04T16:45:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-04-05T00:21:33Z",
+      "homeTeam": {
+        "id": 1919,
+        "name": "FC Volendam",
+        "shortName": "Volendam",
+        "tla": "VOL",
+        "crest": "https://crests.football-data.org/1919.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 17127,
+          "name": "Ingmar Oostrom",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441734,
+      "utcDate": "2024-04-07T12:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-06-02T20:20:54Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 678,
+        "name": "AFC Ajax",
+        "shortName": "Ajax",
+        "tla": "AJA",
+        "crest": "https://crests.football-data.org/678.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 6,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 3,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 43899,
+          "name": "Danny Makkelie",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441744,
+      "utcDate": "2024-04-14T12:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-04-15T00:21:25Z",
+      "homeTeam": {
+        "id": 1920,
+        "name": "Fortuna Sittard",
+        "shortName": "Sittard",
+        "tla": "SIT",
+        "crest": "https://crests.football-data.org/1920.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56905,
+          "name": "Bas Nijhuis",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441753,
+      "utcDate": "2024-04-25T19:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-04-26T00:21:33Z",
+      "homeTeam": {
+        "id": 718,
+        "name": "Go Ahead Eagles",
+        "shortName": "Go Ahead",
+        "tla": "GOA",
+        "crest": "https://crests.football-data.org/718.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 3
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 2
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56917,
+          "name": "Erwin Blank",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441769,
+      "utcDate": "2024-05-05T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-05-06T00:21:31Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 684,
+        "name": "PEC Zwolle",
+        "shortName": "Zwolle",
+        "tla": "ZWO",
+        "crest": "https://crests.football-data.org/684.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 5,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 80090,
+          "name": "Marc Nagtegaal",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441776,
+      "utcDate": "2024-05-12T12:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-05-12T20:21:08Z",
+      "homeTeam": {
+        "id": 1915,
+        "name": "NEC",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://crests.football-data.org/1915.png"
+      },
+      "awayTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 3
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 81350,
+          "name": "Alex Bos",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 1590,
+        "startDate": "2023-08-11",
+        "endDate": "2024-05-19",
+        "currentMatchday": 34,
+        "winner": {
+          "id": 674,
+          "name": "PSV",
+          "shortName": "PSV",
+          "tla": "PSV",
+          "crest": "https://crests.football-data.org/674.png",
+          "address": "Fredriklaan 10a Eindhoven 5616 NH",
+          "website": "http://www.psv.nl",
+          "founded": 1913,
+          "clubColors": "Red / White",
+          "venue": "Philips Stadion",
+          "lastUpdated": "2022-03-06T09:30:40Z"
+        }
+      },
+      "id": 441782,
+      "utcDate": "2024-05-19T12:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2024-05-19T16:22:57Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 670,
+        "name": "SBV Excelsior",
+        "shortName": "Excelsior",
+        "tla": "EXC",
+        "crest": "https://crests.football-data.org/670.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 4,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 9561,
+          "name": "Allard Lindhout",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    }
+  ]
+}

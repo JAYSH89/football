@@ -1,12 +1,7 @@
 pluginManagement {
+    includeBuild("build-logic")
     repositories {
-        google {
-            content {
-                includeGroupByRegex("com\\.android.*")
-                includeGroupByRegex("com\\.google.*")
-                includeGroupByRegex("androidx.*")
-            }
-        }
+        google()
         mavenCentral()
         gradlePluginPortal()
     }
@@ -20,4 +15,17 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "football"
+
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 include(":app")
+include(":core:data")
+include(":core:designsystem")
+include(":core:network")
+include(":core:ui")
+include(":feature:competition")
+include(":feature:standing")
+include(":feature:team")
+include(":core:common")
+include(":core:datastore")
+include(":core:testing")
+include(":core:domain")

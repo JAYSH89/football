@@ -1,0 +1,15 @@
+meta {
+  name: All Competitions
+  type: http
+  seq: 3
+}
+
+get {
+  url: {{BASE_URL}}/competitions
+  body: none
+  auth: none
+}
+
+headers {
+  X-Auth-Token: {{AUTH_TOKEN}}
+}

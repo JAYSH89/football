@@ -1,0 +1,19 @@
+meta {
+  name: Matching for team 2023
+  type: http
+  seq: 8
+}
+
+get {
+  url: {{BASE_URL}}/teams/675/matches?season=2023
+  body: none
+  auth: none
+}
+
+params:query {
+  season: 2023
+}
+
+headers {
+  X-Auth-Token: {{AUTH_TOKEN}}
+}

@@ -1,0 +1,19 @@
+meta {
+  name: Competition Standings PL
+  type: http
+  seq: 5
+}
+
+get {
+  url: {{BASE_URL}}/competitions/2021/standings?season=2022
+  body: none
+  auth: none
+}
+
+params:query {
+  season: 2022
+}
+
+headers {
+  X-Auth-Token: {{AUTH_TOKEN}}
+}
